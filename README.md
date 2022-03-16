@@ -2,10 +2,6 @@
 <h1 align="center">I'm Jaime A. Gutiérrez Cruz</h1>
 <h3 align="center">A passionate Cuban developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jagcruz&label=Profile%20views&color=0e75b6&style=flat" alt="jagcruz" /> </p>
-
-<hr />
-
 <!--
 **jagcruz/jagcruz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,7 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jagcruz" alt="jagcruz" /></a> </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jagcruz&label=Profile%20views&color=0e75b6&style=flat" alt="jagcruz" />
+  <img src="https://wakatime.com/badge/user/73bceb1f-b085-46a3-8d44-4ff384a4c94c/project/27beddad-762e-475e-8408-40d99461fef8.svg" alt="jagcruz" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=jagcruz&theme=onedark" alt="jagcruz" />
+  </a>
+</p>
 
 - 🔭 I’m currently working on **Preact**
 - 🌱 I’m currently learning **Flutter**
@@ -27,7 +33,7 @@ Here are some ideas to get you started:
 
 ### Languages and Tools:
 
-<p align="left">
+<p align="center">
   <a href="https://developer.android.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="android" width="40" height="40"/>
   </a>
@@ -100,8 +106,16 @@ Here are some ideas to get you started:
 
 <hr />
 
-<div> <a href="https://stackoverflow.com/users/12452827/jagc"><img src="https://stackoverflow.com/users/flair/12452827.png?theme=dark" width="208" height="58" alt="profile for JAGC at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for JAGC at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a> </div>
+<p align="center">
+  <a href="https://stackoverflow.com/users/12452827/jagc">
+    <img src="https://stackoverflow.com/users/flair/12452827.png?theme=dark" width="208" height="58" alt="profile for JAGC at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for JAGC at Stack Overflow, Q&amp;A for professional and enthusiast programmers">
+  </a>
+</p>
 
-<div><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jagcruz&show_icons=true&locale=en&layout=compact" alt="jagcruz" /></p></div>
+<p style="display: block">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=jagcruz&show_icons=true&locale=en&count_private=true&theme=onedark" alt="jagcruz" />
+</p>
 
-<div><p style="display: block">&nbsp;<img  style="display: block" align="center" src="https://github-readme-stats.vercel.app/api?username=jagcruz&show_icons=true&locale=en" alt="jagcruz" /></p></div>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jagcruz&langs_count=10&show_icons=true&locale=en&layout=compact&theme=onedark" alt="jagcruz" />
+</p>

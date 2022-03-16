@@ -1,6 +1,8 @@
-# Hi there 👋, I'm Jaime A. Gutiérrez Cruz
+# Hi there 👋
+## I'm Jaime A. Gutiérrez Cruz
+### A passionate Cuban developer
 
-## A passionate Full-Stack Web, Android and Applications developer from Cuba
+<hr />
 
 <!--
 **jagcruz/jagcruz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -94,9 +96,9 @@ Here are some ideas to get you started:
 </p>
 
 <hr />
-  
+
+<div> <a href="https://stackoverflow.com/users/12452827/jagc"><img src="https://stackoverflow.com/users/flair/12452827.png?theme=dark" width="208" height="58" alt="profile for JAGC at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for JAGC at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a> </div>
+
 <div><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jagcruz&show_icons=true&locale=en&layout=compact" alt="jagcruz" /></p></div>
 
 <div><p style="display: block">&nbsp;<img  style="display: block" align="center" src="https://github-readme-stats.vercel.app/api?username=jagcruz&show_icons=true&locale=en" alt="jagcruz" /></p></div>
-
-<div> <a href="https://stackoverflow.com/users/12452827/jagc"><img src="https://stackoverflow.com/users/flair/12452827.png?theme=dark" width="208" height="58" alt="profile for JAGC at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for JAGC at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a> </div>

@@ -18,6 +18,12 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jagcruz&label=Profile%20views&color=0e75b6&style=flat" alt="jagcruz" />
   <img src="https://wakatime.com/badge/user/73bceb1f-b085-46a3-8d44-4ff384a4c94c.svg?style=flat" alt="jagcruz" />
+  <img src="https://img.shields.io/github/followers/jagcruz.svg?label=Follow&style=flat" alt="jagcruz" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="windows" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="ubuntu" />
 </p>
 
 <p align="center">

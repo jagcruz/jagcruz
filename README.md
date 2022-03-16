@@ -19,6 +19,9 @@ Here are some ideas to get you started:
   <img src="https://komarev.com/ghpvc/?username=jagcruz&label=Profile%20views&color=0e75b6&style=flat" alt="jagcruz" />
   <img src="https://wakatime.com/badge/user/73bceb1f-b085-46a3-8d44-4ff384a4c94c.svg?style=flat" alt="jagcruz" />
   <img src="https://img.shields.io/github/followers/jagcruz.svg?label=Follow&style=flat" alt="jagcruz" />
+  <img src="https://img.shields.io/stackexchange/stackoverflow/r/12452827?label=StackOverflow%20Reputation&style=flat" alt="jagcruz" />
+  <img src="https://img.shields.io/github/last-commit/jagcruz/jagcruz?label=Updated&style=flat" alt="jagcruz" />
+  <!-- <img src="https://img.shields.io/website?url=https%3A%2F%2Fjagcruz.github.io%2F?style=flat" alt="jagcruz" /> -->
 </p>
 
 <p align="center">
@@ -111,12 +114,6 @@ Here are some ideas to get you started:
 </p>
 
 <hr />
-
-<p align="center">
-  <a href="https://stackoverflow.com/users/12452827/jagc">
-    <img src="https://stackoverflow.com/users/flair/12452827.png?theme=dark" width="208" height="58" alt="profile for JAGC at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for JAGC at Stack Overflow, Q&amp;A for professional and enthusiast programmers">
-  </a>
-</p>
 
 <p style="display: block">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=jagcruz&show_icons=true&locale=en&count_private=true&theme=onedark" alt="jagcruz" />

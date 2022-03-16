@@ -30,6 +30,6 @@ Here are some ideas to get you started:
 
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
   
-<div><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jagcruz&show_icons=true&locale=en&layout=compact" alt="jagcruz" /></p></div> 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jagcruz&show_icons=true&locale=en&layout=compact" alt="jagcruz" /></p> 
 
 <p style="display: block">​&nbsp;​<img  style="display: block" align="center" src="https://github-readme-stats.vercel.app/api?username=jagcruz&show_icons=true&locale=en" alt="jagcruz"/></p>

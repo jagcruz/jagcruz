@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jagcruz&label=Profile%20views&color=0e75b6&style=flat" alt="jagcruz" />
-  <img src="https://wakatime.com/badge/user/73bceb1f-b085-46a3-8d44-4ff384a4c94c/project/27beddad-762e-475e-8408-40d99461fef8.svg" alt="jagcruz" />
+  <img src="https://wakatime.com/badge/user/73bceb1f-b085-46a3-8d44-4ff384a4c94c.svg?style=flat" alt="jagcruz" />
 </p>
 
 <p align="center">
@@ -119,3 +119,7 @@ Here are some ideas to get you started:
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jagcruz&langs_count=10&show_icons=true&locale=en&layout=compact&theme=onedark" alt="jagcruz" />
 </p>
+
+<br />
+
+<img align="center" src="https://wakatime.com/share/@jagcruz/91d333b3-91b5-4955-8660-2a7f2dacdb2c.svg" />

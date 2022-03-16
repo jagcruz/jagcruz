@@ -1,6 +1,8 @@
-# Hi there 👋
-## I'm Jaime A. Gutiérrez Cruz
-### A passionate Cuban developer
+<h2 align="center">Hi there 👋</h2>
+<h1 align="center">I'm Jaime A. Gutiérrez Cruz</h1>
+<h3 align="center">A passionate Cuban developer</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jagcruz&label=Profile%20views&color=0e75b6&style=flat" alt="jagcruz" /> </p>
 
 <hr />
 
@@ -16,6 +18,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jagcruz" alt="jagcruz" /></a> </p>
 
 - 🔭 I’m currently working on **Preact**
 - 🌱 I’m currently learning **Flutter**

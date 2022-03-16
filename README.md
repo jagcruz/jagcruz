@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **Preact**
 - 🌱 I’m currently learning **Flutter**
-  
+
+<hr />
+
 ### Languages and Tools:
 
 <p align="left">
@@ -66,7 +68,9 @@ Here are some ideas to get you started:
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
   </a>
 </p>
+
+<hr />
   
 <div><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jagcruz&show_icons=true&locale=en&layout=compact" alt="jagcruz" /></p></div>
 
-<p style="display: block">&nbsp;<img  style="display: block" align="center" src="https://github-readme-stats.vercel.app/api?username=jagcruz&show_icons=true&locale=en" alt="jagcruz" /></p>
+<div><p style="display: block">&nbsp;<img  style="display: block" align="center" src="https://github-readme-stats.vercel.app/api?username=jagcruz&show_icons=true&locale=en" alt="jagcruz" /></p></div>

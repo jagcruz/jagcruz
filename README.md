@@ -124,4 +124,10 @@ Here are some ideas to get you started:
 
 <br />
 
+<hr />
+
+<img align="center" src="https://wakatime.com/share/@jagcruz/fd4cc733-eb1c-4fac-8397-03664ba16df8.svg" />
+
+<hr />
+
 <img align="center" src="https://wakatime.com/share/@jagcruz/91d333b3-91b5-4955-8660-2a7f2dacdb2c.svg" />

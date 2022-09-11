@@ -132,9 +132,6 @@ Here are some ideas to get you started:
   <a href="https://yarnpkg.com/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Yarn-282C34?style=for-the-badge&logo=yarn&labelColor=2C8EBB&logoColor=FFF" alt="Yarn logo" title="Yarn" height="40" />
   </a>
-  <a href="https://yarnpkg.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Yarn-282C34?style=for-the-badge&logo=yarn&labelColor=2C8EBB&logoColor=FFF" alt="Yarn logo" title="Yarn" height="40" />
-  </a>
 </p>
 
 <hr />

@@ -37,8 +37,8 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-- 🔭 I’m currently working on **React/Preact**
-- 🌱 I’m currently learning **Flutter**
+- 🔭 I’m currently working on **React**
+- 🌱 I’m currently learning **Astro**
 
 <hr />
 

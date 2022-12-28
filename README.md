@@ -1,9 +1,12 @@
 <h2 align="center">Hi there 👋</h2>
 <h1 align="center">I'm Jaime A. Gutiérrez Cruz</h1>
 <h3 align="center">A passionate Cuban developer</h3>
+
+<!--
 <p align="center">
   <img src="https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white" alt="Freelancer" />
 </p>
+-->
 
 <!--
 **jagcruz/jagcruz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

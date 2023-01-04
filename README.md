@@ -1,6 +1,6 @@
 <h2 align="center">Hi there 👋</h2>
 <h1 align="center">I'm Jaime A. Gutiérrez Cruz</h1>
-<h3 align="center">A passionate Cuban developer</h3>
+<h3 align="center">Passionate gamer. Movie fan. Fiction stories lover. Software engineer and developer. Open source enthusiast. Always trying to learn something new. Photography hobbyist.</h3>
 
 <!--
 <p align="center">

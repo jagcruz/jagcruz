@@ -1,51 +1,26 @@
 <h2 align="center">Hi there 👋</h2>
-<h1 align="center">I'm Jaime A. Gutiérrez Cruz</h1>
-<h3 align="center">Passionate gamer. Movie fan. Fiction stories lover. Software engineer and developer. Open source enthusiast. Always trying to learn something new. Photography hobbyist.</h3>
 
-<!--
-<p align="center">
-  <img src="https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white" alt="Freelancer" />
-</p>
--->
+# 💫 About Me:
 
-<!--
-**jagcruz/jagcruz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Passionate gamer. Movie fan. Fiction stories lover. Software engineer and developer. Open source enthusiast. Always trying to learn something new. Photography hobbyist.
 
-Here are some ideas to get you started:
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on **React/TypeScript** with **Vite**
+- 🌱 I’m currently learning **Astro**
 
 <p align="center">
-  <img src="https://wakatime.com/badge/user/73bceb1f-b085-46a3-8d44-4ff384a4c94c.svg?style=flat" alt="jagcruz" />
-  <img src="https://img.shields.io/github/followers/jagcruz.svg?label=Follow&style=flat" alt="jagcruz" />
-  <img src="https://img.shields.io/stackexchange/stackoverflow/r/12452827?label=StackOverflow%20Reputation&style=flat" alt="jagcruz" />
-  <img src="https://img.shields.io/github/last-commit/jagcruz/jagcruz?label=Updated&style=flat" alt="jagcruz" />
-  <!-- <img src="https://img.shields.io/website?url=https%3A%2F%2Fjagcruz.github.io%2F?style=flat" alt="jagcruz" /> -->
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 </p>
+
+## 🌐 Socials:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=flat)](https://linkedin.com/in/jagcruz) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white&style=flat)](https://stackoverflow.com/users/12452827)
+
+## 💻 Tech Stack:
 
 <p align="center">
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="windows" />
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="ubuntu" />
 </p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=jagcruz&theme=onedark" alt="jagcruz" />
-  </a>
-</p>
-
-- 🔭 I’m currently working on **React/TypeScript** with **Vite**
-- 🌱 I’m currently learning **Astro**
-
-<hr />
-
-### Languages and Tools:
 
 <p align="center">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
@@ -140,15 +115,19 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-<hr />
+## 📊 Stats:
 
-<p style="display: block">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=jagcruz&show_icons=true&locale=en&count_private=true&theme=onedark" alt="jagcruz" />
+<p align="center">
+  <img src="https://wakatime.com/badge/user/73bceb1f-b085-46a3-8d44-4ff384a4c94c.svg?style=flat" alt="jagcruz" />
+  <img src="https://img.shields.io/github/followers/jagcruz.svg?label=Follow&style=flat" alt="jagcruz" />
+  <img src="https://img.shields.io/stackexchange/stackoverflow/r/12452827?label=StackOverflow%20Reputation&style=flat" alt="jagcruz" />
+  <!-- <img src="https://img.shields.io/website?url=https%3A%2F%2Fjagcruz.github.io%2F?style=flat" alt="jagcruz" /> -->
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jagcruz&langs_count=10&show_icons=true&locale=en&layout=compact&theme=onedark" alt="jagcruz" />
-</p>
+![](https://github-profile-trophy.vercel.app/?username=jagcruz&theme=onedark&no-frame=false&no-bg=false&margin-w=4)<br/>
+![](https://github-readme-stats.vercel.app/api?username=jagcruz&show_icons=true&locale=en&count_private=true&include_all_commits=true&theme=onedark)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=jagcruz&theme=onedark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jagcruz&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=10&show_icons=true&locale=en)
 
 <br />
 
@@ -159,3 +138,9 @@ Here are some ideas to get you started:
 <hr />
 
 <img align="center" src="https://wakatime.com/share/@jagcruz/91d333b3-91b5-4955-8660-2a7f2dacdb2c.svg" />
+
+------------
+
+[![](https://visitcount.itsvg.in/api?id=jagcruz&icon=5&color=4)](https://visitcount.itsvg.in)
+
+<img src="https://img.shields.io/github/last-commit/jagcruz/jagcruz?label=Updated&style=flat" alt="jagcruz" />

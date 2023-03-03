@@ -4,7 +4,7 @@
 
 ### Passionate gamer. Movie fan. Fiction stories lover. Software engineer and developer. Open source enthusiast. Always trying to learn something new. Photography hobbyist.
 
-- 🔭 I’m currently working on **React/TypeScript** with **Vite**
+- 🔭 I’m currently working on **React/TypeScript** and **Next.JS**
 - 🌱 I’m currently learning **Astro**
 
 <p align="center">
@@ -60,7 +60,7 @@
     <img src="https://img.shields.io/badge/Yarn-282C34?style=for-the-badge&logo=yarn&labelColor=2C8EBB&logoColor=FFF" alt="Yarn logo" title="Yarn" height="40" />
   </a>
   <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Vite-282C34?style=for-the-badge&logo=vite&labelColor=646CFFlogoColor=FFF" alt="Vite logo" title="Vite" height="40" />
+    <img src="https://img.shields.io/badge/Vite-282C34?style=for-the-badge&logo=vite&labelColor=646CFF&logoColor=FFF" alt="Vite logo" title="Vite" height="40" />
   </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/TypeScript-282C34?style=for-the-badge&logo=typescript&labelColor=3178C6&logoColor=FFF" alt="TypeScript logo" title="TypeScript" height="40" />
@@ -112,6 +112,9 @@
   </a>
   <a href="https://graphql.org/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/GraphQL-282C34?style=for-the-badge&logo=graphql&labelColor=E10098&logoColor=FFF" alt="GraphQL logo" title="GraphQL" height="40" />
+  </a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Next.js-282C34?style=for-the-badge&logo=nextdotjs&labelColor=000&logoColor=FFF" alt="Next.js logo" title="Next.js" height="40" />
   </a>
 </p>
 

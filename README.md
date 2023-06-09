@@ -4,8 +4,8 @@
 
 ### Passionate gamer. Movie fan. Fiction stories lover. Software engineer and developer. Open source enthusiast. Always trying to learn something new. Photography hobbyist.
 
-- 🔭 I’m currently working on **React/TypeScript** and **Next.JS**
-- 🌱 I’m currently learning **Astro**
+- 🔭 I’m currently working on **React/TypeScript**
+- 🌱 I’m currently learning **Astro** and **Firebase**
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />

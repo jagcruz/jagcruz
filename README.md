@@ -127,12 +127,11 @@
 </p>
 
 <p align="center">
-  <a href="https://app.daily.dev/jagc"><img src="https://github.com/jagcruz/jagcruz/blob/master/devcard.svg" width="250" alt="Jaime Alan Gutiérrez Cruz's Dev Card"/></a>
-
   <img src="https://github-profile-trophy.vercel.app/?username=jagcruz&theme=onedark&no-frame=false&no-bg=false&margin-w=4" alt="" />
   <img src="https://github-readme-stats.vercel.app/api?username=jagcruz&show_icons=true&locale=en&count_private=true&include_all_commits=true&theme=onedark" alt="" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jagcruz&theme=onedark&hide_border=false" alt="" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jagcruz&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=10&show_icons=true&locale=en" alt="" />
+  <a href="https://app.daily.dev/jagc"><img src="https://github.com/jagcruz/jagcruz/blob/master/devcard.svg" width="250" alt="Jaime Alan Gutiérrez Cruz's Dev Card"/></a>
 </p>
 
 

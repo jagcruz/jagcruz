@@ -121,16 +121,20 @@
 ## 📊 Stats:
 
 <p align="center">
-  <img src="https://wakatime.com/badge/user/73bceb1f-b085-46a3-8d44-4ff384a4c94c.svg?style=flat" alt="jagcruz" />
   <img src="https://img.shields.io/github/followers/jagcruz.svg?label=Follow&style=flat" alt="jagcruz" />
   <img src="https://img.shields.io/stackexchange/stackoverflow/r/12452827?label=StackOverflow%20Reputation&style=flat" alt="jagcruz" />
   <!-- <img src="https://img.shields.io/website?url=https%3A%2F%2Fjagcruz.github.io%2F?style=flat" alt="jagcruz" /> -->
 </p>
 
-![](https://github-profile-trophy.vercel.app/?username=jagcruz&theme=onedark&no-frame=false&no-bg=false&margin-w=4)<br/>
-![](https://github-readme-stats.vercel.app/api?username=jagcruz&show_icons=true&locale=en&count_private=true&include_all_commits=true&theme=onedark)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=jagcruz&theme=onedark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jagcruz&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=10&show_icons=true&locale=en)
+<p align="center">
+  <a href="https://app.daily.dev/jagc"><img src="https://api.daily.dev/devcards/18907add8960455c9cd39aa65cd686ba.png?r=m66" width="400" alt="Jaime Alan Gutiérrez Cruz's Dev Card"/></a>
+
+  <img src="https://github-profile-trophy.vercel.app/?username=jagcruz&theme=onedark&no-frame=false&no-bg=false&margin-w=4" alt="" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jagcruz&show_icons=true&locale=en&count_private=true&include_all_commits=true&theme=onedark" alt="" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jagcruz&theme=onedark&hide_border=false" alt="" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jagcruz&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=10&show_icons=true&locale=en" alt="" />
+</p>
+
 
 <br />
 

@@ -116,6 +116,9 @@
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Next.js-282C34?style=for-the-badge&logo=nextdotjs&labelColor=000&logoColor=FFF" alt="Next.js logo" title="Next.js" height="40" />
   </a>
+  <a href="https://vitest.dev/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Vitest-282C34?style=for-the-badge&logo=vitest&labelColor=6E9F18&logoColor=FFF" alt="Vitest logo" title="Vitest" height="40" />
+  </a>
 </p>
 
 ## 📊 Stats:

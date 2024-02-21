@@ -137,7 +137,7 @@
 
   <img src="https://github-profile-trophy.vercel.app/?username=jagcruz&theme=onedark&no-frame=false&no-bg=false&margin-w=4" alt="" /><br />
 
-  <a href="https://app.daily.dev/jagc"><img src="https://github.com/jagcruz/jagcruz/blob/master/devcard.png" width="250" alt="Jaime Alan Gutiérrez Cruz's Dev Card"/></a>
+  <a href="https://app.daily.dev/jagc"><img src="https://github.com/jagcruz/jagcruz/blob/master/devcard.png" height="350" alt="Jaime Alan Gutiérrez Cruz's Dev Card"/></a>
 </p>
 
 

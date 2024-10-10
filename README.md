@@ -16,7 +16,7 @@
 
 ## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=flat)](https://linkedin.com/in/jagcruz) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white&style=flat)](https://stackoverflow.com/users/12452827)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=flat)](https://linkedin.com/in/jagcruz) [![CodePen](https://img.shields.io/badge/-CodePen-000000.svg?logo=codepen&logoColor=white&style=flat)](https://codepen.io/jagcruz) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white&style=flat)](https://stackoverflow.com/users/12452827)
 
 ## 💻 Tech Stack:
 

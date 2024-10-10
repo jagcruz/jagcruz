@@ -4,8 +4,11 @@
 
 ### Passionate gamer. Movie fan. Fiction stories lover. Software engineer and developer. Open source enthusiast. Always trying to learn something new. Photography hobbyist.
 
+<img src='assets/programmer.webp' align='right' width="400" height="251.67" />
+
 - 🔭 I’m currently working on **React/TypeScript**
-- 🌱 I’m currently learning **Astro** and **Firebase**
+- 🌱 I’m currently improving my **CSS** vanilla skills, you may want to view my [codepen profile](https://codepen.io/jagcruz)
+- 🎮 In my spare time you can find me in the [UX Corp Rangel](https://github.com/UXCorpRangel) and [odraciRDev](https://www.twitch.tv/odracirdev) communities creating magic with **Astro**.
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />

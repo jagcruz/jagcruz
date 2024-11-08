@@ -129,6 +129,8 @@
 
 <!-- ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=anuraghazra\&repo=github-readme-stats\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515) -->
 
+<a href="https://www.buymeacoffee.com/tytodev" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
 <br />
 
 ------------
@@ -136,3 +138,4 @@
 [![](https://visitcount.itsvg.in/api?id=jagcruz&icon=5&color=4)](https://visitcount.itsvg.in)
 
 <img src="https://img.shields.io/github/last-commit/jagcruz/jagcruz?label=Updated&style=flat" alt="jagcruz" />
+
